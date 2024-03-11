@@ -1,5 +1,5 @@
 AssemblyInformationalVersion:
-InformationalVersion: 1.0.0+6a9737a5c582f82dc13ad85ed5315637a05b6db1
+InformationalVersion: 1.0.0+9edf8abdba452dc8078a7950e6ab89fca37c60f2
 Version: 1.0.0
 TargetFrameworks:
 RunCommand: /home/sanjaymahara/dotnetprojects/TyeWithDapr/backend/bin/Debug/net6.0/backend

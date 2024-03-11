@@ -25,3 +25,5 @@ run command "dapr dashboard"
 run command "tye init" to initialize tye project configuration
 creates tye.yaml --for structuring application together
 
+tye run // run the applications
+        //and also produces a tye dashboard 

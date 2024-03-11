@@ -5,18 +5,8 @@
 #    https://aka.ms/AA7q20u
 #
 name: tyewithdapr
-extensions:
-- name: dapr
-  log-level: debug
-  components-path: "./components/"
 services:
 - name: backend
   project: backend/backend.csproj
-  bindings: 
-    - port: 5000
-      protocol: http
 - name: frontend
   project: frontend/frontend.csproj
-  bindings: 
-    - port: 5005
-      protocol: http
